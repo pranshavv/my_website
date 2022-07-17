@@ -1,0 +1,166 @@
+body {
+  margin: 10px auto 0;
+  text-align: center;
+  font-family: 'Edu SA Beginner', cursive;
+  background-color: white;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'BlackJack', sans-serif;
+  font-size: 3rem;
+  color: white;
+}
+
+h2 {
+  font-family: 'Edu SA Beginner', cursive;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Edu SA Beginner', cursive;
+}
+hr {
+  width: 10%;
+  border: dotted 6px white;
+  border-bottom: none;
+  margin:60px auto;
+}
+p{
+  color: #F8F8FF;
+}
+a {
+  color: black;
+  font-family: 'Edu SA Beginner', cursive;
+  text-decoration: none;
+
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: black;
+}
+table{
+  width:30%;
+  margin: 30px auto 0;
+}
+.L{
+  width: 25%;
+  margin:auto;
+  float: left;
+}
+
+.intro{
+  width:30%;
+  margin:auto;
+  line-height: 2;
+}
+.top-container {
+  margin-top: 40px;
+  padding-top: 20px;
+  background-color: #8f71ff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.top-analytics {
+  position: absolute;
+  right: 80px;
+  top: 100px;
+}
+
+.bottom-analytics {
+  position: absolute;
+  left: 80px;
+  bottom: 100px;
+}
+
+.man {
+  height: 50%;
+  width: 50%;
+}
+
+.middle-container {
+  background-color: #8f71ff;
+  margin:50px 0 50px;
+  padding-bottom: 15px;
+}
+
+.bottom-container {
+  background-color: white;
+  padding: 10px 0 0;
+
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-right: 300px;
+
+}
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-left: 300px;
+}
+.skill-row3 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-right: 300px;
+}
+
+.skill1 {
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+  padding:10px 0 10px 0;
+}
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill3 {
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+  padding:10px 0 10px 0;
+}
+.mypic {
+  margin: 20px auto auto;
+  width: 15%;
+}
+.contact-msg{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+.btn {
+  background: #6d5bc7;
+  border-radius: 8px;
+  font-family: 'Edu SA Beginner', cursive;
+  color: white;
+  font-size: 19px;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+  }
+
+.btn:hover {
+  background: #a795c2;
+  background-image: linear-gradient(top, #a795c2, #9b8ed1);
+  background-image: linear-gradient(to bottom, #a795c2, #9b8ed1);
+  text-decoration: none;
+}
+.copyright{
+  font-size: 0.75rem;
+  color: grey;
+  padding: 5px 0 5px;
+}
